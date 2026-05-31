@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionpave",
+        "uuid": 9891765,
+        "checksum": "5ujfr"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
